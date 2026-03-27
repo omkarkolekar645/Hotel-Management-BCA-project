@@ -38,7 +38,7 @@ include '../config.php';
                 <option value="Cook">Cook</option>
                 <option value="Helper">Helper</option>
                 <option value="cleaner">cleaner</option>
-                <option value="waiter">waiter</option>
+                <option value="weighter">weighter</option>
             </select>
 
             <button type="submit" class="btn btn-success" name="addstaff">Add Staff</button>
